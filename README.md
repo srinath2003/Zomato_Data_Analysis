@@ -75,7 +75,7 @@ Deploy the cleaned dataset for real-time analytics or integration with BI tools.
 
 ## MIT License
 
-Copyright (c) [YEAR] [Your Name or Organization]
+Copyright (c) [2003] [srinath2003]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
